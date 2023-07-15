@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-anydpi-v24_vaping.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-anydpi-v24\\vaping.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-anydpi-v24_about_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-anydpi-v24\\about_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-anydpi-v24_matt_icons_contact_add.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-anydpi-v24\\matt_icons_contact_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-mdpi_abouticon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-mdpi\\abouticon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-mdpi_about_svgrepo_com.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-mdpi\\about_svgrepo_com.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\layout_fragment_catalog.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\layout\\fragment_catalog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xxhdpi_ic_image_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xxhdpi\\ic_image_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\layout_item_vapors.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\layout\\item_vapors.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xxxhdpi_matt_icons_contact_add.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xxxhdpi\\matt_icons_contact_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-hdpi_ic_image.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-hdpi\\ic_image.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-ldpi_claromizer.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-ldpi\\claromizer.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable_baseline_article_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\drawable\\baseline_article_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-anydpi-v26_ic_image_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-anydpi-v26\\ic_image_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-ldpi_matt_icons_contact_add.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-ldpi\\matt_icons_contact_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-hdpi_ic_image_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-hdpi\\ic_image_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xxxhdpi_vaping.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xxxhdpi\\vaping.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xxhdpi_ic_image.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xxhdpi\\ic_image.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xxhdpi_ic_image_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xxhdpi\\ic_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-mdpi_ic_image_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-mdpi\\ic_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xxxhdpi_ic_image.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xxxhdpi\\ic_image.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xxhdpi_vaping.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xxhdpi\\vaping.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xxxhdpi_claromizer.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xxxhdpi\\claromizer.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-anydpi-v24_claromizer.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-anydpi-v24\\claromizer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable_ic_electronic_cigar_32.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\drawable\\ic_electronic_cigar_32.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xhdpi_vaping.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xhdpi\\vaping.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xxhdpi_claromizer.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xxhdpi\\claromizer.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xxxhdpi_ic_image_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xxxhdpi\\ic_image_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-mdpi_ic_image.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-mdpi\\ic_image.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xxxhdpi_abouticon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xxxhdpi\\abouticon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xhdpi_about_svgrepo_com.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xhdpi\\about_svgrepo_com.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-mdpi_claromizer.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-mdpi\\claromizer.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-anydpi-v24_vaping2.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-anydpi-v24\\vaping2.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xxxhdpi_ic_image_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xxxhdpi\\ic_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-hdpi_vaping.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-hdpi\\vaping.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-hdpi_vaping2.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-hdpi\\vaping2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-hdpi_abouticon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-hdpi\\abouticon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xhdpi_matt_icons_contact_add.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xhdpi\\matt_icons_contact_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable_oops.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\drawable\\oops.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xhdpi_ic_image_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xhdpi\\ic_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xxhdpi_matt_icons_contact_add.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xxhdpi\\matt_icons_contact_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-mdpi_matt_icons_contact_add.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-mdpi\\matt_icons_contact_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-hdpi_claromizer.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-hdpi\\claromizer.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-mdpi_vaping2.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-mdpi\\vaping2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xhdpi_ic_image.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xhdpi\\ic_image.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-ldpi_about_svgrepo_com.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-ldpi\\about_svgrepo_com.png"
+    },
+    {
+        "merged": "com.example.tokovapor2.app-merged_res-55:/layout_fragment_first.xml.flat",
+        "source": "com.example.tokovapor2.app-main-57:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xhdpi_claromizer.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xhdpi\\claromizer.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xhdpi_vaping2.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xhdpi\\vaping2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable_baseline_local_phone_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\drawable\\baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-hdpi_about_svgrepo_com.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-hdpi\\about_svgrepo_com.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-hdpi_ic_image_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-hdpi\\ic_image_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xxhdpi_abouticon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xxhdpi\\abouticon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xhdpi_abouticon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xhdpi\\abouticon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-mdpi_ic_image_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-mdpi\\ic_image_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-ldpi_abouticon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-ldpi\\abouticon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-ldpi_vaping.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-ldpi\\vaping.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xxxhdpi_vaping2.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xxxhdpi\\vaping2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-xhdpi_ic_image_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-xhdpi\\ic_image_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\layout_fragment_contact.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\layout\\fragment_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-mdpi_vaping.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-mdpi\\vaping.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-hdpi_matt_icons_contact_add.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-hdpi\\matt_icons_contact_add.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xxhdpi_vaping2.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xxhdpi\\vaping2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xxhdpi_about_svgrepo_com.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xxhdpi\\about_svgrepo_com.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-xxxhdpi_about_svgrepo_com.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-xxxhdpi\\about_svgrepo_com.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-ldpi_vaping2.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-ldpi\\vaping2.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\mipmap-anydpi-v26_ic_image.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-main-57:\\mipmap-anydpi-v26\\ic_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-merged_res-55:\\drawable-anydpi-v24_abouticon.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.0\\com.example.tokovapor2.app-pngs-51:\\drawable-anydpi-v24\\abouticon.xml"
+    }
+]
